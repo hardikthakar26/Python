@@ -1,7 +1,7 @@
 """
 Program: Find Largest of Three Numbers
 Description: This program takes three numbers as input from the user and finds the largest among them.
-Author: Assistant
+Author: HARDIK
 Date: 2024
 """
 
