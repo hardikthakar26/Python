@@ -1,4 +1,4 @@
-# Recursive function to check even or odd
+#Method:-4 Recursive function to check even or odd
 def check_even_odd(n):
     if n == 0:
         return "even"
