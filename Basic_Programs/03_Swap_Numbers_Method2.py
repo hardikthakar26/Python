@@ -1,4 +1,5 @@
 #Method 2: Without Temporary Variable (Arithmetic Approach)
+#Author: HARDIK
 # Initialize two numbers
 a = 5
 b = 10

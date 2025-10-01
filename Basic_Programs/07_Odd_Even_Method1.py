@@ -1,5 +1,5 @@
 # Method-1:Program to check even or odd using modulus operator
-
+#Author: HARDIK
 # Program to check even or odd using modulus operator
 number = int(input("Enter a number: "))  # Take user input and convert to integer
 

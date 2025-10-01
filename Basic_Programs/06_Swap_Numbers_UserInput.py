@@ -1,4 +1,6 @@
 # Prompt the user for the first number
+#Author: HARDIK
+
 num1 = int(input("Enter the first number: "))
 
 # Prompt the user for the second number

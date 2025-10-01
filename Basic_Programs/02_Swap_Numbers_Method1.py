@@ -1,4 +1,5 @@
 # Method 1: Using a Temporary Variable
+# Author: HARDIK
 
 # Initialize two numbers
 a = 5

@@ -7,6 +7,7 @@ This program demonstrates three different methods to swap two numbers in Python:
 3. Using Python's tuple unpacking (most Pythonic approach)
 
 The program also showcases the use of f-strings for formatted string output.
+#Author: HARDIK
 """
 
 def demonstrate_swapping():
